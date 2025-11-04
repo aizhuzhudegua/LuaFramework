@@ -1,0 +1,12 @@
+/README.md
+/.vs
+/Library
+/Logs
+/obj
+/Packages
+/Temp
+/UserSettings
+/.vsconfig
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/XLuaFrameWork.sln
